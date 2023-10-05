@@ -1,0 +1,8 @@
+CORES EM HEXADECIMAL:
+
+#F1F1F1 (fundo e botões)
+#BFACAC (barras)
+#FFFFFF (janelas e/ou caixa de diálogo)
+#EA5B5B (contorno e detalhes)
+#343E43 (ícones do menu)
+#000000 (fonte)
